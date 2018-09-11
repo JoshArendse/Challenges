@@ -1,3 +1,3 @@
 # Challenges
 
-Just trying out the basics of coding like ol, ul, html, and image adjustment
+basics of coding like ol, ul, html, and image adjustment as well as every other aspect of HTML
